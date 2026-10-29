@@ -1,0 +1,10 @@
+name: "AccountsSecurity"
+version: "1.0.0"
+main: "AccountsSecurity"
+api: "5.0.0"
+
+author: "rizdevv"
+
+load: "STARTUP"
+# https://github.com/MEFRREEX/FormConstructor-PM
+depend: ["FormConstructor"]
